@@ -23,8 +23,9 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tymotheo.trisch/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tymotheo.trisch/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/)](https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/)
+[![Gmail Badge](https://img.shields.io/badge/-tymotheo.oliveira@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tymotheo.oliveira@gmail.com)](mailto:tymotheo.oliveira@gmail.com)
 
 <!-- GithubStats -->
 ![TymotheoTrisch GitHub stats](https://github-readme-stats.vercel.app/api?username=TymotheoTrisch&show_icons=true&theme=vue-dark)
