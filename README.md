@@ -1,28 +1,30 @@
 <!--título-->
-<h1 style="display: inline-block">Hello < Developers /></h1>
+<h1 style="display: inline-block">Hello!!</h1>
 
 <!-- Presentation -->
+
 <p>
-  Hi 👋, I'm Tymótheo! A passionate Data Science student from Brazil.
+  Olá 👋, eu sou Tymotheo Trisch, um apaixonado Desenvolvedor Full Stack!
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Tenho um curso técnico em Desenvolvimento de Sistemas pelo Senac, onde adquiri fortes habilidades tanto em tecnologias de front-end quanto de back-end. Tenho conhecimento em Java, JavaScript, TypeScript, React-Native, HTML, CSS, Bootstrap, JQuery, NodeJs, Express.js, MySQL e SQLite.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou ativamente em busca da minha primeira oportunidade profissional como desenvolvedor, e sou motivado pela chance de criar soluções impactantes por meio da tecnologia. Um dos meus projetos, que você pode encontrar [aqui](https://github.com/TymotheoTrisch/sportche-pi), é uma plataforma que conecta usuários a partidas de esportes.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Tenho 17 anos e moro no Rio Grande do sul, Brasil. Gosto de trabalhar em projetos desafiadores que envolvem resolução de problemas e criatividade. Além de programar, também gosto de ler, praticar esportes e ouvir música.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 🌟 No meu tempo livre, criei um site para um técnico de enfermagem no Senac. O site oferecia um guia baseado em um quiz para potenciais doadores de sangue, ajudando-os a avaliar sua elegibilidade para doação.
+
+  - ⚡ Sou inspirado pelo poder da tecnologia de mudar vidas. Acredito que, através do desenvolvimento, posso criar ferramentas que melhorem a vida das pessoas e contribuam para mudanças positivas.
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tymotheo.trisch/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/)
 
 <!-- GithubStats -->
 ![TymotheoTrisch GitHub stats](https://github-readme-stats.vercel.app/api?username=TymotheoTrisch&show_icons=true&theme=vue-dark)
@@ -38,9 +40,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/TymotheoTrisch/TymotheoTrisch/blob/main/Figure1.gif" alt="Imagem" width="80%">
 </p>
-![xrrp0zb7r0781](https://github.com/user-attachments/assets/b8e300c6-efe7-4128-a372-39923913ec8a)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
