@@ -4,7 +4,7 @@
 <!-- Presentation -->
 
 <p>
-  Olá 👋, eu sou Tymotheo Trisch, um apaixonado Desenvolvedor Full Stack!
+  Olá 👋, eu sou Tymotheo Trisch, Desenvolvedor Full Stack!
 
   - 🌱 Tenho um curso técnico em Desenvolvimento de Sistemas pelo Senac, onde adquiri fortes habilidades tanto em tecnologias de front-end quanto de back-end. Tenho conhecimento em Java, JavaScript, TypeScript, React-Native, HTML, CSS, Bootstrap, JQuery, NodeJs, Express.js, MySQL e SQLite.
 
