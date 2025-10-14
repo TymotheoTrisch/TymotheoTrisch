@@ -15,7 +15,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 17 anos e moro no Rio Grande do sul, Brasil. Gosto de trabalhar em projetos desafiadores que envolvem resolução de problemas e criatividade. Além de programar, também gosto de ler, praticar esportes e ouvir música.
+  - 💬 Tenho 18 anos e moro no Rio Grande do sul, Brasil. Gosto de trabalhar em projetos desafiadores que envolvem resolução de problemas e criatividade. Além de programar, também gosto de ler, praticar esportes e ouvir música.
 
   - 🌟 No meu tempo livre, criei um site para um técnico de enfermagem no Senac. O site oferecia um guia baseado em um quiz para potenciais doadores de sangue, ajudando-os a avaliar sua elegibilidade para doação.
 
