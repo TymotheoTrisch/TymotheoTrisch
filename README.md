@@ -1,78 +1,116 @@
+<!-- Apresentação -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2440,100:087F8C&height=185&section=header&text=Tymotheo%20Trisch&fontColor=FFFFFF&fontSize=52&fontAlignY=40" width="100%" alt="Tymotheo Trisch">
-  <p><strong>Desenvolvedor Full Stack · APIs · Integrações · Automação</strong></p>
+  <h1>Olá, seja bem-vindo! 👋</h1>
+  <h2>Eu sou Tymótheo Trisch</h2>
+  <p><strong>Desenvolvedor Full Stack | Arquitetura de Software | APIs e Automações</strong></p>
 </div>
 
-## Sobre mim
+Sou técnico em **Desenvolvimento de Sistemas pelo Senac**, com formação complementar em **programação Java pela Universidade Feevale**, onde aprofundei conhecimentos em algoritmos e desenvolvimento de aplicações desktop e web.
 
-Sou técnico em Desenvolvimento de Sistemas pelo Senac. Desenvolvo aplicações web, APIs e integrações, do backend à interface.
+Gosto de transformar problemas em soluções práticas, da definição da arquitetura à implementação. Meu foco está em desenvolver sistemas **bem estruturados, seguros, escaláveis e fáceis de manter**, valorizando código limpo, organização e decisões técnicas fundamentadas.
 
-- **Desenvolvimento web** — construo aplicações e painéis administrativos para fluxos como gestão de estoque, vendas e calendários.
-- **Integrações** — trabalho com sincronização de eventos via Microsoft Graph, filas de processamento e auditoria.
-- **Automação e operação** — uso PowerShell no Windows para automatizar rotinas e diagnosticar serviços. Também trabalho com planejamento de backup e recuperação.
-
-## Tecnologias
-
-| Área | Como uso | Ferramentas |
-| :--- | :--- | :---: |
-| **Backend** | APIs, autenticação e processamento assíncrono<br><sub>PHP · Laravel · Node.js · Express</sub> | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" height="30" alt="PHP · Laravel · Node.js · Express"> |
-| **Frontend** | Painéis administrativos e interfaces web<br><sub>React · TypeScript · JavaScript · Vite · Tailwind CSS</sub> | <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" height="30" alt="React · TypeScript · JavaScript · Vite · Tailwind CSS"> |
-| **Dados** | Bancos relacionais e filas de processamento<br><sub>PostgreSQL · MySQL · Redis</sub> | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="30" alt="PostgreSQL · MySQL · Redis"> |
-| **Integrações e operação** | Sincronização de calendários, containers e automação de serviços<br><sub>Microsoft Graph · Docker · PowerShell · Windows</sub> | <img src="https://skillicons.dev/icons?i=docker,powershell,windows" height="30" alt="Microsoft Graph · Docker · PowerShell · Windows"> |
-
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TymotheoTrisch/microservico_calendar">Calendar Integration Service</a></h3>
-      <p>Integração de calendários com o Microsoft Graph, com filas para processar eventos, auditoria e painel administrativo.</p>
-      <p><sub>Laravel · React · PostgreSQL · Redis</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TymotheoTrisch/JEBusiness">JEBusiness</a></h3>
-      <p>Controle de produtos, estoque e vendas, com contas a receber e relatórios para pequenos negócios.</p>
-      <p><sub>PHP · MySQL · Tailwind CSS</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TymotheoTrisch/sportche-pi">Sportchê</a></h3>
-      <p>Projeto de conclusão do curso técnico. Permite criar partidas e encontrar pessoas para jogar.</p>
-      <p><sub>Node.js · Express · MySQL</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TymotheoTrisch/projeto-doacao">Projeto Doação</a></h3>
-      <p>Site com um quiz informativo e sugestões de locais para quem quer doar sangue.</p>
-      <p><sub>HTML · CSS · JavaScript</sub></p>
-    </td>
-  </tr>
-</table>
+Tenho interesse especial por **arquitetura de software, desenvolvimento de APIs, integrações entre sistemas, bancos de dados e automação de processos**. Também exploro o uso de **inteligência artificial como apoio ao desenvolvimento**, à análise de problemas, à documentação e à melhoria da produtividade, sempre com revisão e validação técnica.
 
 <details>
-<summary>Outros projetos</summary>
+<summary><b>💡 Um pouco mais sobre mim</b></summary>
 
-- [Instrumento API](https://github.com/TymotheoTrisch/Instrumento_API)
-- [Jogo Baseado em Textos](https://github.com/TymotheoTrisch/JogoBaseadoEmTextos)
-- [Campo Minado](https://github.com/TymotheoTrisch/Campo_Minado)
-- [Termo](https://github.com/TymotheoTrisch/Termo)
+- 🧠 Gosto de desafios que exigem raciocínio lógico, investigação e resolução de problemas.
+- 🏗️ Busco evoluir em arquitetura de software, boas práticas, testes e segurança de aplicações.
+- 🤝 Valorizo colaboração, documentação clara e organização do trabalho com metodologias ágeis.
+- 📚 Estou sempre aprendendo novas tecnologias e procurando entender os fundamentos por trás delas.
+- 🎵 Fora da programação, gosto de música, leitura e esportes.
 
 </details>
 
-## Atividade no GitHub
+---
+
+## 🚀 Tecnologias e habilidades
+
+### Linguagens
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend e frontend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Bancos de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+### Ferramentas e ambiente de desenvolvimento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Conhecimentos aplicados:** arquitetura de software · APIs REST · integração de sistemas · modelagem de dados · princípios de código limpo · testes · segurança de aplicações · metodologias ágeis · automação · IA aplicada ao desenvolvimento.
+
+---
+
+## 📂 Projetos em destaque
+
+<!-- Repositórios públicos com escopo e funcionalidades documentados. -->
 
 <div align="center">
-  <a href="https://github.com/TymotheoTrisch#contribution-graph"><img src="https://github-readme-stats.vercel.app/api?username=TymotheoTrisch&show_icons=true&theme=vue-dark" alt="Estatísticas públicas de Tymotheo Trisch no GitHub"></a>
+<a href="https://github.com/TymotheoTrisch/sportche-pi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TymotheoTrisch&repo=sportche-pi&theme=vue-dark" alt="Sportchê" />
+</a>
+<a href="https://github.com/TymotheoTrisch/projeto-doacao">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TymotheoTrisch&repo=projeto-doacao&theme=vue-dark" alt="Projeto Doação" />
+</a>
+<a href="https://github.com/TymotheoTrisch/Task-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TymotheoTrisch&repo=Task-Tracker&theme=vue-dark" alt="Task Tracker" />
+</a>
 </div>
 
-[Ver histórico de contribuições](https://github.com/TymotheoTrisch#contribution-graph)
+- **[Sportchê](https://github.com/TymotheoTrisch/sportche-pi)** — Sistema web desenvolvido como projeto integrador do curso técnico, voltado à organização de partidas esportivas, cadastro de usuários e participação em salas. `Node.js` · `Express` · `MySQL`
 
-## Contato
+- **[Projeto Doação](https://github.com/TymotheoTrisch/projeto-doacao)** — Site informativo sobre doação de sangue, com um quiz para orientar potenciais doadores e sugestões de locais de doação. `HTML` · `CSS` · `JavaScript`
+
+- **[Task Tracker](https://github.com/TymotheoTrisch/Task-Tracker)** — Aplicação de linha de comando para gerenciamento de tarefas, desenvolvida como exercício de lógica e programação orientada a objetos. `C#` · `.NET`
+
+<details>
+<summary><b>🔎 Ver outros repositórios públicos</b></summary>
+
+- [Instrumento API](https://github.com/TymotheoTrisch/Instrumento_API)
+- [Campo Minado](https://github.com/TymotheoTrisch/Campo_Minado)
+- [Termo](https://github.com/TymotheoTrisch/Termo)
+- [Jogo Baseado em Textos](https://github.com/TymotheoTrisch/JogoBaseadoEmTextos)
+
+</details>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TymotheoTrisch&show_icons=true&theme=vue-dark&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tymotheo.trisch/) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/)](https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/) [![Gmail Badge](https://img.shields.io/badge/-tymotheo.oliveira%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tymotheo.oliveira@gmail.com)](mailto:tymotheo.oliveira@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2440,100:087F8C&height=90&section=footer" width="100%" alt="">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymotheo-da-silva-trisch-de-oliveira-905308275/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tymotheo.trisch/) [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tymotheo.oliveira@gmail.com)
 
 </div>
