@@ -1,7 +1,7 @@
 <!-- Apresentação -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2440,100:087F8C&height=185&section=header&text=Tym%C3%B3theo%20Trisch&fontColor=FFFFFF&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Tymótheo Trisch">
   <h1>Olá, seja bem-vindo! 👋</h1>
-  <h2>Eu sou Tymótheo Trisch</h2>
   <p><strong>Desenvolvedor Full Stack | Arquitetura de Software | APIs e Automações</strong></p>
 </div>
 
@@ -9,7 +9,9 @@ Sou técnico em **Desenvolvimento de Sistemas pelo Senac**, com formação compl
 
 Gosto de transformar problemas em soluções práticas, da definição da arquitetura à implementação. Meu foco está em desenvolver sistemas **bem estruturados, seguros, escaláveis e fáceis de manter**, valorizando código limpo, organização e decisões técnicas fundamentadas.
 
-Tenho interesse especial por **arquitetura de software, desenvolvimento de APIs, integrações entre sistemas, bancos de dados e automação de processos**. Também exploro o uso de **inteligência artificial como apoio ao desenvolvimento**, à análise de problemas, à documentação e à melhoria da produtividade, sempre com revisão e validação técnica.
+Tenho interesse especial por **arquitetura de software, desenvolvimento de APIs, integrações entre sistemas, bancos de dados e automação de processos**.
+
+Em **inteligência artificial**, meu interesse está na arquitetura de soluções que integram modelos a APIs, fontes de dados e fluxos de automação, considerando acesso aos dados, custo e latência.
 
 <details>
 <summary><b>💡 Um pouco mais sobre mim</b></summary>
@@ -24,75 +26,65 @@ Tenho interesse especial por **arquitetura de software, desenvolvimento de APIs,
 
 ---
 
-## 🚀 Tecnologias e habilidades
+## 🚀 Tecnologias & Especialidades
 
-### Linguagens
+| Área | Aplicação prática | Tecnologias |
+| :--- | :--- | :--- |
+| **Linguagens de programação** | Aplicações web e desktop, APIs e lógica de negócio. | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"> |
+| **Fundamentos da web** | Estrutura e apresentação de interfaces. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3"> |
+| **Ferramentas e frameworks** | APIs, serviços e interfaces web. | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express.js"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="NestJS"> <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS"> |
+| **Bancos de dados** | Modelagem relacional, persistência e filas de processamento. | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis"> |
+| **Ambiente de desenvolvimento** | Versionamento, containers, testes de APIs e automação de rotinas. | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell"> |
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend e frontend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Bancos de dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-### Ferramentas e ambiente de desenvolvimento
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Conhecimentos aplicados:** arquitetura de software · APIs REST · integração de sistemas · modelagem de dados · princípios de código limpo · testes · segurança de aplicações · metodologias ágeis · automação · IA aplicada ao desenvolvimento.
+**Conhecimentos aplicados:** arquitetura de software · APIs REST · integração de sistemas · modelagem de dados · princípios de código limpo · testes · segurança de aplicações · metodologias ágeis · automação.
 
 ---
 
 ## 📂 Projetos em destaque
 
-<!-- Repositórios públicos com escopo e funcionalidades documentados. -->
-
-<div align="center">
-<a href="https://github.com/TymotheoTrisch/sportche-pi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TymotheoTrisch&repo=sportche-pi&theme=vue-dark" alt="Sportchê" />
-</a>
-<a href="https://github.com/TymotheoTrisch/projeto-doacao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TymotheoTrisch&repo=projeto-doacao&theme=vue-dark" alt="Projeto Doação" />
-</a>
-<a href="https://github.com/TymotheoTrisch/Task-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TymotheoTrisch&repo=Task-Tracker&theme=vue-dark" alt="Task Tracker" />
-</a>
-</div>
-
-- **[Sportchê](https://github.com/TymotheoTrisch/sportche-pi)** — Sistema web desenvolvido como projeto integrador do curso técnico, voltado à organização de partidas esportivas, cadastro de usuários e participação em salas. `Node.js` · `Express` · `MySQL`
-
-- **[Projeto Doação](https://github.com/TymotheoTrisch/projeto-doacao)** — Site informativo sobre doação de sangue, com um quiz para orientar potenciais doadores e sugestões de locais de doação. `HTML` · `CSS` · `JavaScript`
-
-- **[Task Tracker](https://github.com/TymotheoTrisch/Task-Tracker)** — Aplicação de linha de comando para gerenciamento de tarefas, desenvolvida como exercício de lógica e programação orientada a objetos. `C#` · `.NET`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TymotheoTrisch/sportche-pi">Sportchê</a></h3>
+      <p>Sistema web desenvolvido como projeto integrador do curso técnico, voltado à organização de partidas esportivas, cadastro de usuários e participação em salas.</p>
+      <p><sub>Node.js · Express · MySQL</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TymotheoTrisch/microservico_calendar">Calendar Integration Service</a></h3>
+      <p>Microserviço que sincroniza eventos com o Microsoft Graph por meio de filas, com registros de auditoria e painel administrativo.</p>
+      <p><sub>Laravel · React · PostgreSQL · Redis · Microsoft Graph</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TymotheoTrisch/Termo">Termo</a></h3>
+      <p>Jogo de adivinhação de palavras com interface gráfica e feedback visual para cada tentativa.</p>
+      <p><sub>Java · Swing</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TymotheoTrisch/projeto-doacao">Projeto Doação</a></h3>
+      <p>Site informativo sobre doação de sangue, com um quiz para orientar potenciais doadores e sugestões de locais de doação.</p>
+      <p><sub>HTML · CSS · JavaScript</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TymotheoTrisch/Campo_Minado">Campo Minado</a></h3>
+      <p>Jogo de tabuleiro com contagem de minas vizinhas, marcação de células e interface gráfica.</p>
+      <p><sub>Java · Swing</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TymotheoTrisch/Instrumento_API">Instrumento API</a></h3>
+      <p>Catálogo de instrumentos musicais com operações de cadastro, consulta, edição e exclusão. Os dados são armazenados em JSON.</p>
+      <p><sub>Node.js · Express · JSON</sub></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🔎 Ver outros repositórios públicos</b></summary>
+<summary><b>🔎 Outros projetos</b></summary>
 
-- [Instrumento API](https://github.com/TymotheoTrisch/Instrumento_API)
-- [Campo Minado](https://github.com/TymotheoTrisch/Campo_Minado)
-- [Termo](https://github.com/TymotheoTrisch/Termo)
+- **[Task Tracker](https://github.com/TymotheoTrisch/Task-Tracker)** — Aplicação de linha de comando para gerenciamento de tarefas, desenvolvida como exercício de lógica e programação orientada a objetos. `C#` · `.NET`
 - [Jogo Baseado em Textos](https://github.com/TymotheoTrisch/JogoBaseadoEmTextos)
 
 </details>
